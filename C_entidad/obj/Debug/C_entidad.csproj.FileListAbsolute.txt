@@ -1,0 +1,12 @@
+C:\Users\DARLIN\source\repos\Proyecto_Inventario\C_entidad\bin\Debug\C_entidad.dll
+C:\Users\DARLIN\source\repos\Proyecto_Inventario\C_entidad\bin\Debug\C_entidad.pdb
+C:\Users\DARLIN\source\repos\Proyecto_Inventario\C_entidad\obj\Debug\C_entidad.csproj.AssemblyReference.cache
+C:\Users\DARLIN\source\repos\Proyecto_Inventario\C_entidad\obj\Debug\C_entidad.csproj.CoreCompileInputs.cache
+C:\Users\DARLIN\source\repos\Proyecto_Inventario\C_entidad\obj\Debug\C_entidad.dll
+C:\Users\DARLIN\source\repos\Proyecto_Inventario\C_entidad\obj\Debug\C_entidad.pdb
+C:\Users\DARLIN\source\repos\Proyecto_Inventario\Proyecto_Inventario\C_entidad\bin\Debug\C_entidad.dll
+C:\Users\DARLIN\source\repos\Proyecto_Inventario\Proyecto_Inventario\C_entidad\bin\Debug\C_entidad.pdb
+C:\Users\DARLIN\source\repos\Proyecto_Inventario\Proyecto_Inventario\C_entidad\obj\Debug\C_entidad.csproj.AssemblyReference.cache
+C:\Users\DARLIN\source\repos\Proyecto_Inventario\Proyecto_Inventario\C_entidad\obj\Debug\C_entidad.csproj.CoreCompileInputs.cache
+C:\Users\DARLIN\source\repos\Proyecto_Inventario\Proyecto_Inventario\C_entidad\obj\Debug\C_entidad.dll
+C:\Users\DARLIN\source\repos\Proyecto_Inventario\Proyecto_Inventario\C_entidad\obj\Debug\C_entidad.pdb

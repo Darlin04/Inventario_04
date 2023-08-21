@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Proyecto_Inventario/1.0.0": {
+        "dependencies": {
+          "VentanaPrincipal": "1.0.0"
+        },
+        "runtime": {
+          "Proyecto_Inventario.dll": {}
+        }
+      },
+      "VentanaPrincipal/1.0.0": {
+        "runtime": {
+          "VentanaPrincipal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto_Inventario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VentanaPrincipal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

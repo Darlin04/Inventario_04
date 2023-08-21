@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="V_AgregarEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V_Configuracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V_Estadisticas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V_Ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

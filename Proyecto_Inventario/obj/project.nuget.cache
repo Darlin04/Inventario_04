@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l0M/PJUPUvvCFzcFMRzn+cYtHCSR8HBEce6530NuYRF9w+vriPb2qDB4R2UtndgJjdTNs0u1Fzf6J9Vlh+jqbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\Proyecto_Inventario\\C.presentacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DARLIN\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.28\\microsoft.windows.sdk.net.ref.10.0.22621.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\Proyecto_Inventario\\C.presentacion.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_Datos\\C_Datos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_Datos\\C_Datos.csproj",
+        "projectName": "C_Datos",
+        "projectPath": "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_Datos\\C_Datos.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_entidad\\C_entidad.csproj": {
+                "projectPath": "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_entidad\\C_entidad.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_entidad\\C_entidad.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_entidad\\C_entidad.csproj",
+        "projectName": "C_entidad",
+        "projectPath": "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_entidad\\C_entidad.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_negocios\\C_negocios.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_negocios\\C_negocios.csproj",
+        "projectName": "C_negocios",
+        "projectPath": "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_negocios\\C_negocios.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_Datos\\C_Datos.csproj": {
+                "projectPath": "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_Datos\\C_Datos.csproj"
+              },
+              "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_entidad\\C_entidad.csproj": {
+                "projectPath": "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_entidad\\C_entidad.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\Proyecto_Inventario\\C.presentacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\Proyecto_Inventario\\C.presentacion.csproj",
+        "projectName": "C.presentacion",
+        "projectPath": "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\Proyecto_Inventario\\C.presentacion.csproj",
+        "packagesPath": "C:\\Users\\DARLIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\Proyecto_Inventario\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DARLIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows10.0.22621.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows10.0.22621": {
+            "targetAlias": "net6.0-windows10.0.22621.0",
+            "projectReferences": {
+              "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_entidad\\C_entidad.csproj": {
+                "projectPath": "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_entidad\\C_entidad.csproj"
+              },
+              "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_negocios\\C_negocios.csproj": {
+                "projectPath": "C:\\Users\\DARLIN\\source\\repos\\Proyecto_Inventario\\Proyecto_Inventario\\C_negocios\\C_negocios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows10.0.22621": {
+          "targetAlias": "net6.0-windows10.0.22621.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.22621.28, 10.0.22621.28]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
